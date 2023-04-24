@@ -1,0 +1,12 @@
+C:\Users\HP\Downloads\BookYourTickets\MyWebModels\bin\Debug\net6.0\MyWebModels.deps.json
+C:\Users\HP\Downloads\BookYourTickets\MyWebModels\bin\Debug\net6.0\MyWebModels.dll
+C:\Users\HP\Downloads\BookYourTickets\MyWebModels\bin\Debug\net6.0\MyWebModels.pdb
+C:\Users\HP\Downloads\BookYourTickets\MyWebModels\obj\Debug\net6.0\MyWebModels.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\BookYourTickets\MyWebModels\obj\Debug\net6.0\MyWebModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\BookYourTickets\MyWebModels\obj\Debug\net6.0\MyWebModels.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\BookYourTickets\MyWebModels\obj\Debug\net6.0\MyWebModels.AssemblyInfo.cs
+C:\Users\HP\Downloads\BookYourTickets\MyWebModels\obj\Debug\net6.0\MyWebModels.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\BookYourTickets\MyWebModels\obj\Debug\net6.0\MyWebModels.dll
+C:\Users\HP\Downloads\BookYourTickets\MyWebModels\obj\Debug\net6.0\refint\MyWebModels.dll
+C:\Users\HP\Downloads\BookYourTickets\MyWebModels\obj\Debug\net6.0\MyWebModels.pdb
+C:\Users\HP\Downloads\BookYourTickets\MyWebModels\obj\Debug\net6.0\ref\MyWebModels.dll

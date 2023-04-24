@@ -1,0 +1,15 @@
+C:\Users\HP\Downloads\BookYourTickets\MyWebDataAccess\obj\Debug\net6.0\MyWebDataAccess.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\BookYourTickets\MyWebDataAccess\obj\Debug\net6.0\MyWebDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\BookYourTickets\MyWebDataAccess\obj\Debug\net6.0\MyWebDataAccess.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\BookYourTickets\MyWebDataAccess\obj\Debug\net6.0\MyWebDataAccess.AssemblyInfo.cs
+C:\Users\HP\Downloads\BookYourTickets\MyWebDataAccess\obj\Debug\net6.0\MyWebDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\BookYourTickets\MyWebDataAccess\bin\Debug\net6.0\MyWebDataAccess.deps.json
+C:\Users\HP\Downloads\BookYourTickets\MyWebDataAccess\bin\Debug\net6.0\MyWebDataAccess.dll
+C:\Users\HP\Downloads\BookYourTickets\MyWebDataAccess\bin\Debug\net6.0\MyWebDataAccess.pdb
+C:\Users\HP\Downloads\BookYourTickets\MyWebDataAccess\bin\Debug\net6.0\MyWebModels.dll
+C:\Users\HP\Downloads\BookYourTickets\MyWebDataAccess\bin\Debug\net6.0\MyWebModels.pdb
+C:\Users\HP\Downloads\BookYourTickets\MyWebDataAccess\obj\Debug\net6.0\MyWebDataAccess.csproj.CopyComplete
+C:\Users\HP\Downloads\BookYourTickets\MyWebDataAccess\obj\Debug\net6.0\MyWebDataAccess.dll
+C:\Users\HP\Downloads\BookYourTickets\MyWebDataAccess\obj\Debug\net6.0\refint\MyWebDataAccess.dll
+C:\Users\HP\Downloads\BookYourTickets\MyWebDataAccess\obj\Debug\net6.0\MyWebDataAccess.pdb
+C:\Users\HP\Downloads\BookYourTickets\MyWebDataAccess\obj\Debug\net6.0\ref\MyWebDataAccess.dll
